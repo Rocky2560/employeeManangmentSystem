@@ -26,7 +26,7 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-/src/java/resources/static/uploads
+src/main/resources/static/uploads
 !**/src/main/**/build/
 !**/src/test/**/build/
 
